@@ -7,7 +7,7 @@ import App from './App';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App {...{tourName:"script_general.js"}}/>
+    <App {...{tourName:"choghazanbil.js"}}/>
   </React.StrictMode>
 );
 
