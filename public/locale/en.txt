@@ -1,0 +1,202 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_E09157CC_C8C1_6E02_41E2_3D1787107A9B.source = http://tchoghazanbil.com/
+LinkBehaviour_D007385A_C570_D097_41DD_68EB6B37A102.source = https://archaboom.com/
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://nshn.ir/8a_b_QH4V56KwH
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+
+## E-Learning
+
+### Answer
+questionOption_D9DE2BEF_CEEF_9012_41DA_009FD93252CE.text = شرقی
+questionOption_D7006F2F_CEAA_B012_41E5_2DCE4079CFDA.text = شمال شرقی
+questionOption_D97837A5_CEAB_9016_41A6_122FA513408B.text = شمال غربی
+questionOption_D6CC334B_CEEB_B012_41C2_A594FB2A5A39.text = شمالی
+questionOption_D9F57304_CEEF_F016_41E9_9BF4872FE0A0.text = غربی
+questionOption_D95949F5_CEAB_93F6_41D0_C3980D037531.text = غربی
+questionOption_D894A6DC_CEEA_9036_41DA_BD067B4EAB8D.text = گوشه جنوبی
+questionOption_D8EF61C9_CEF6_901E_41D8_58C448131728.text = گوشه شمالی
+questionOption_D8D67B25_CEF6_B016_41B0_B3E1CB21B5E0.text = گوشه غربی
+
+### Question
+question_D7F5498A_CEA9_9013_41E1_A6B909F7C14D.title = این قسمت از پلکان بنا در کدام جهت جغرافیایی قرار دارد؟
+question_D9001398_CEEA_B03E_41E4_870FECDECD9C.title = در حال حاضر در کدام  گوشه صحن می باشید؟
+question_D9220D3C_CEE9_9076_41E3_873E2E687CBE.title = کدام نام صحن صحیح می باشد؟
+
+### Question Screen
+quizQuestion_DFAC56E4_CE6B_F016_41D7_5841A4EB6A8C.ok = باشد
+
+### Report Screen
+quizScore_DFAE46E4_CE6B_F016_41CA_E3E0135F8EBD.questionsIncorrect = اشتباه
+quizScore_DFAE46E4_CE6B_F016_41CA_E3E0135F8EBD.repeat = تکرار سوالات
+quizScore_DFAE46E4_CE6B_F016_41CA_E3E0135F8EBD.completion = تکمیل شده ها
+quizScore_DFAE46E4_CE6B_F016_41CA_E3E0135F8EBD.submitToLMS = ثبت
+quizScore_DFAE46E4_CE6B_F016_41CA_E3E0135F8EBD.downloadCSV = دانلود نتایج سوالات
+quizScore_DFAE46E4_CE6B_F016_41CA_E3E0135F8EBD.questionsCorrect = درست
+quizScore_DFAE46E4_CE6B_F016_41CA_E3E0135F8EBD.elapsedTime = زمان
+quizScore_DFAE46E4_CE6B_F016_41CA_E3E0135F8EBD.questions = سوالات
+quizScore_DFAE46E4_CE6B_F016_41CA_E3E0135F8EBD.items = موارد پیدا شده
+quizScore_DFAE46E4_CE6B_F016_41CA_E3E0135F8EBD.title = نتیجه نمرات
+
+### Score Name
+score1.label = جمع نمرات
+
+### Timeout Screen
+quizTimeout_DFAD06E4_CE6B_F016_41B9_71CFE755C7EA.repeat = تکرار امتحان
+quizTimeout_DFAD06E4_CE6B_F016_41B9_71CFE755C7EA.title = زمان تمام شده
+quizTimeout_DFAD06E4_CE6B_F016_41B9_71CFE755C7EA.score = نمایش نمرات
+
+## Media
+
+### Audio
+audiores_DA946860_CEAB_900E_4182_F0C6B1B0D18A.mp3Url = media/audio_DECC38D4_CE69_B037_41D2_22ABBBA0001C_en.mp3
+
+### Floorplan
+
+### Image
+imlevel_D6BB9654_CEBE_9036_41E0_B92DBC60864D.url = media/map_D47DFE87_C7B4_0353_41D4_1CD7C3F7DE58_en_0.png
+imlevel_D6BB6654_CEBE_9036_41D3_EC321D6ADC58.url = media/map_D47DFE87_C7B4_0353_41D4_1CD7C3F7DE58_en_1.png
+imlevel_D6BB7654_CEBE_9036_41E4_C4124AD295B7.url = media/map_D47DFE87_C7B4_0353_41D4_1CD7C3F7DE58_en_2.png
+
+### Title
+album_D61736B6_C6D7_2CCE_41E7_21DFCA29DAD7_0.label = DJI_0542
+album_D61736B6_C6D7_2CCE_41E7_21DFCA29DAD7_1.label = DJI_0551
+album_D61736B6_C6D7_2CCE_41E7_21DFCA29DAD7_2.label = DJI_0559
+video_CACDF248_C590_50F2_41E0_30936ECF2782.label = HeyGen - AI Spokesperson Video Creator
+album_D61736B6_C6D7_2CCE_41E7_21DFCA29DAD7_3.label = IMG_2713
+album_D61736B6_C6D7_2CCE_41E7_21DFCA29DAD7_4.label = IMG_2986
+album_D61736B6_C6D7_2CCE_41E7_21DFCA29DAD7_5.label = IMG_9614
+video_D0F4B874_C9BC_0FB4_41E5_1A1FA5F40CB5.label = Joghazanbil slideshow3-1
+video_D6D81775_C943_EE02_416C_EA8CCC205545.label = Untitled Video
+map_D47DFE87_C7B4_0353_41D4_1CD7C3F7DE58.label = choghazanbil-map
+album_D61736B6_C6D7_2CCE_41E7_21DFCA29DAD7.label = آلبوم عکسهای چغازنبیل
+panorama_A77FB845_AED0_4B69_41C2_9E7967790119.label = محوطه چغازنبیل-01
+panorama_A3122C1F_AF70_CB19_41E5_70D4B90FB92D.label = محوطه چغازنبیل-02
+panorama_BC9A0027_B001_A95E_41E1_5119E1C27679.label = محوطه چغازنبیل-02-آناگلیف
+panorama_B8C5E686_B42E_1E4B_41AB_AC8BED835577.label = محوطه چغازنبیل-03
+panorama_B8C27125_B42E_1248_41C9_ED539D4B288C.label = محوطه چغازنبیل-04
+
+### Video
+videolevel_D6A42611_CEBE_9031_41E7_6FCFE8D8529A.url = media/video_CACDF248_C590_50F2_41E0_30936ECF2782_en.mp4
+videolevel_D6A42611_CEBE_9031_41E7_6FCFE8D8529A.posterURL = media/video_CACDF248_C590_50F2_41E0_30936ECF2782_poster_en.jpg
+videolevel_D6A4858E_CEBE_9012_4199_287D9925AC1F.url = media/video_D0F4B874_C9BC_0FB4_41E5_1A1FA5F40CB5_en.mp4
+videolevel_D6A4858E_CEBE_9012_4199_287D9925AC1F.posterURL = media/video_D0F4B874_C9BC_0FB4_41E5_1A1FA5F40CB5_poster_en.jpg
+videolevel_D6A475CF_CEBE_9012_41B7_A2FFC811D0A6.url = media/video_D6D81775_C943_EE02_416C_EA8CCC205545_en.mp4
+videolevel_D6A475CF_CEBE_9012_41B7_A2FFC811D0A6.posterURL = media/video_D6D81775_C943_EE02_416C_EA8CCC205545_poster_en.jpg
+
+### Video Subtitles
+
+## Right Click Menu
+
+### Text
+menuItem_D0F930E9_C570_51B2_41D9_8775A3AC5ED6.label = آرکابوم (09128792218)
+
+## Skin
+
+### Button
+Button_307CB5CF_6057_FBCC_4181_83F08F76DF2A.label = AMENITIES
+Button_307F95CE_6057_FBCC_41C7_B333F07C8122.label = Bar
+Button_307F85CE_6057_FBCC_41D3_51C00DB92A20.label = Chill Out
+Button_41E392A5_60B9_0A08_41BF_F6AAFA87203B.label = FLOORPLAN
+Button_41E3D2A5_60B9_0A08_41B7_737D4607570D.label = INFO
+Button_41E382A5_60B9_0A08_41D5_3FD188EFFDD4.label = LOCATION
+Button_718FB1CD_60B6_E5E3_41D6_BCB4CCFDFBDC.label = LOREM IPSUM
+Button_307FD5CE_6057_FBCC_41CC_536DDA444F00.label = Lobby
+Button_3CA53F6D_60CE_68CC_41D0_97234605DBC6.label = Lorem Ipsum
+Button_3C374402_60CE_5834_41C7_743903F3EAD1.label = Lorem Ipsum
+Button_3C2E84AF_60CE_584B_41C3_79FAE620CCE9.label = Lorem Ipsum
+Button_03AA7C9B_60F5_E854_41D1_C29772B2A455.label = Lorem Ipsum
+Button_3B1F3FAF_60CE_684C_41A0_AD93990FC16F.label = Lorem Ipsum
+Button_307F05CE_6057_FBCC_41D6_C582E4F8D33B.label = Lorem Ipsum
+Button_3AEC57F6_60D6_67DD_41D0_694A036298AF.label = Lorem Ipsum
+Button_3B92E10A_60D6_7834_41D1_4B446F9FB434.label = Lorem Ipsum
+Button_3BBB129C_60D6_784C_41D3_B811E1E9E26B.label = Lorem Ipsum
+Button_3BC5B42E_60D6_784D_41A3_6479FA21A1A9.label = Lorem Ipsum
+Button_3BF9B800_60D6_6834_41B0_F6309500A250.label = Lorem Ipsum
+Button_3B197998_60D6_6855_41C7_99A6C32E2384.label = Lorem Ipsum
+Button_3B3C7B5C_60D6_68CD_41D1_FFB577C80ADA.label = Lorem Ipsum
+Button_3C1F1344_60CE_583C_419A_D3E4ACDEA010.label = Lorem Ipsum
+Button_030C6B04_60CA_683C_419C_6C1F0B9EB051.label = Lorem Ipsum
+Button_3C35C0B9_60CD_F854_41CA_2F187FB8960F.label = Lorem Ipsum
+Button_3C58D2BC_60CD_F84C_41D7_7CB447A7D5BF.label = Lorem Ipsum
+Button_3C70C399_60CD_F854_41D6_488C924AD534.label = Lorem Ipsum
+Button_3C69544A_60CD_F835_41CA_C7312C7B3578.label = Lorem Ipsum
+Button_3D8024FE_60CD_F9CC_41D7_A101588235F6.label = Lorem Ipsum
+Button_3DBB65DA_60CD_FBD4_41D0_4F3B5CD606A9.label = Lorem Ipsum
+Button_3DF12A63_60CD_E8FB_41D0_83B1FB2CC56F.label = Lorem Ipsum
+Button_02C35607_60F5_D83C_41D1_3F7BE5AB7368.label = Lorem Ipsum
+Button_3B3673B8_60CF_B854_41B9_8AC7249D3A1B.label = Lorem Ipsum
+Button_039B0A9C_60F5_E84C_41B4_85DA5003EEFE.label = Lorem Ipsum
+Button_3CF0E1E2_60CE_5BF4_4136_3FE02552AC94.label = Lorem Ipsum
+Button_3CE40290_60CE_5854_41D7_2608A956C59B.label = Lorem Ipsum
+Button_3B5DCD73_60CE_E8D4_41A0_A70D622FF822.label = Lorem Ipsum
+Button_027E69DF_60F5_EBCC_41D0_DA549FE430A5.label = Lorem Ipsum
+Button_025CF94C_60F5_E8CC_41C7_4B0565CACC1A.label = Lorem Ipsum
+Button_3C45F5D2_60CE_5BD4_41C0_CC1810D45E29.label = Lorem Ipsum
+Button_023318B5_60F5_E85C_41C2_C8C50D7C368E.label = Lorem Ipsum
+Button_3C96EF55_60CE_E8DC_4180_0D3CE8FCB751.label = Lorem Ipsum
+Button_3B031B65_60CE_E8FC_41CF_18C07E2E58B8.label = Lorem Ipsum
+Button_3C85A007_60CE_F83B_41B9_7D30CC9CF6EC.label = Lorem Ipsum
+Button_3B4F7E10_60CE_E854_41D3_4200495C04EB.label = Lorem Ipsum
+Button_3B66CEDB_60CE_E9D4_41CA_2F3DAC235546.label = Lorem Ipsum
+Button_3CC3E3ED_60CE_FFCC_41C4_C48363B62A80.label = Lorem Ipsum
+Button_0210B80A_60F5_E834_41C2_262A279EA500.label = Lorem Ipsum
+Button_19640B96_60CA_685C_41D0_C3EFCA646A08.label = Lorem Ipsum
+Button_50D923F0_6061_057B_41C9_1D2D7358B7CE.label = MENU
+Button_307E25CE_6057_FBCC_41D1_E295E5C3528A.label = Main Entrance
+Button_307FF5CE_6057_FBCC_41D5_405F882ECED2.label = Meeting Area 1
+Button_307FE5CE_6057_FBCC_41D1_2DA85B874499.label = Meeting Area 2
+Button_41E3F2A5_60B9_0A08_41C3_9FE9C5047659.label = PANORAMAS
+Button_41E3A2A5_60B9_0A08_41BE_55AB547304EE.label = PHOTOS
+Button_41E3B2A5_60B9_0A08_41BC_3A36B4FAF7B8.label = REALTOR
+Button_307E65CE_6057_FBCC_41D4_18C7A0A54239.label = RECEPTION
+Button_307F25D0_6057_FBD4_41B0_5E14C1D2FC22.label = RESTAURANTS
+Button_307F45CE_6057_FBCC_41D5_FD32EE2D5A78.label = ROOMS
+Button_307FC5CE_6057_FBCC_4190_85A741B8DCAC.pressedLabel = Reception
+Button_307FC5CE_6057_FBCC_4190_85A741B8DCAC.label = Reception
+Button_307F65CF_6057_FBCC_41BB_13FA17E2C9AB.label = SPORTS AREA
+Button_307FD5CF_6057_FBCC_41D4_AEEBAD314687.label = SWIMMING POOL
+Button_307FB5CE_6057_FBCC_41AE_9BF529C6E6AF.label = Terrace
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = ورود به سایت
+
+### Dropdown
+DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B.label = AMENITIES
+DropDown_0561BA16_3AA3_A1D2_41C7_FDA0B6E9EE29.label = RECEPTION
+DropDown_05784A29_3AA3_A1FE_41B1_E2305F2F53BE.label = RESTAURANTS
+DropDown_05789A1B_3AA3_A1D2_41CC_002739F0C312.label = ROOMS
+DropDown_057BFA20_3AA3_A1EE_41A9_8EE569D894A7.label = SPORTS AREA
+DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09.label = SWIMMING POOL
+
+### Image
+Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50.url = skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_en.png
+Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile.url = skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile_en.png
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_en.jpg
+Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29.url = skin/Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29_en.png
+Image_718C71CD_60B6_E5E3_41B9_105D7970318F.url = skin/Image_718C71CD_60B6_E5E3_41B9_105D7970318F_en.jpg
+Image_731CA57E_60BF_A2A1_4190_01076897586C.url = skin/Image_731CA57E_60BF_A2A1_4190_01076897586C_en.jpg
+Image_731CE57E_60BF_A2A1_41CC_3F43DCC7BC6F.url = skin/Image_731CE57E_60BF_A2A1_41CC_3F43DCC7BC6F_en.jpg
+
+### Label
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1_mobile.text = COMPANY NAME
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918.text = DOLOR SIT AMET
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918_mobile.text = DOLOR SIT AMET
+Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151.text = LOREM
+Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151_mobile.text = LOREM
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1.text = زیگورات چغازنبیل
+Label_D0643769_C943_6E02_41E7_5AE0803989DA.text = فهرست نماها
+
+### Multiline Text
+HTMLText_731F057E_60BF_A2A1_41C8_ACE4EB05FF54.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.369999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;word-break:break-word;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_718FA1CD_60B6_E5E3_41D3_6335BDF289A6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.330000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;word-break:break-word;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8.330000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;word-break:break-word;font-family:'Montserrat';"><B>DOLOR SIT AME</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.72vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:4.72vmin;word-break:break-word;font-family:'Montserrat';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;word-break:break-word;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;word-break:break-word;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;word-break:break-word;font-family:'Montserrat';"><B>DONEC FEUGIAT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.369999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;word-break:break-word;"> </SPAN><SPAN STYLE="font-size:3.61vmin;word-break:break-word;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;word-break:break-word;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;word-break:break-word;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;word-break:break-word;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;word-break:break-word;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;word-break:break-word;font-family:'Montserrat';"><B>LOREM IPSUM:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:5.83vmin;word-break:break-word;font-family:'Montserrat';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_731CF57E_60BF_A2A1_41D7_B81B17089B91.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.469999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:8.47vmin;word-break:break-word;font-family:'Montserrat';"><B>JOHN DOE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.28vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.28vmin;word-break:break-word;font-family:'Montserrat';">Licensed Real Estate Salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.15vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8900000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;word-break:break-word;font-family:'Montserrat';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8900000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;word-break:break-word;font-family:'Montserrat';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8900000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;word-break:break-word;font-family:'Montserrat';">www.loremipsum.com</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_C729861B_C8C0_EE07_41E1_8177E63C9B6F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#840953;font-size:20px;word-break:break-word;font-family:'Telegraph';"><B>عبادتگاه زیگورات چغازنبیل</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:15px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:right;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0e4b78;font-family:'Telegraph';"><B>چغازنبیل عبادتگاهی هرمی شکل از جنس خشت و آجر با زیربنایی به اندازه تقریبی دو زمین فوتبال است که چهارهزار سال پیش به دستور اونتاش گال در پنج طبقه ساخته شد تا به “اینشوشیناگ”,خدای خاص شوش، تقدیم شود تا وی از شهر پاسداری و نگهبانی کند.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-family:'Telegraph';">این معبد فوق العاده که علاوه بر ثبت شدن در آثار ملی ایران به ثبت جهانی یونسکو نیز رسیده است در طی تاریخ چندین بار مورد حملات بیگانگان قرار گرفته و متاسفانه تاثیرات این حملات و عوامل فرساینده طبیعی، سبب شده اکنون تنها دو طبقه نیمه مخروبه از آن بنای باشکوه به جا بماند.</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-family:'Telegraph';">همین عوامل موجب مدفون شدن کل بنا در زیر تلی از خاک شده بود تا اینکه حدود شصت سال پیش توسط باستان شناسی فرانسوی به نام رومن کریشمن خاکبرداری شد تا موجب حیرت جهانیان و توجه هرچه بیشتر آنها به تاریخ اصیل ایران شود. «چغازنبیل» که نام باستانی این بنا است، واژه‌ای محلی و مرکب از دو کلمه «چُغا» (در زبان لری به معنی «تپه») و زنبیل (به معنی «سبد») است که اشاره‌ای دارد به مکان معبد که تپه بوده و آن را به زنبیل واژگون تشبیه می‌کرده اند.</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-family:'Telegraph';">از طریق صفحه اختصاصی عبادتگاه چغازنبیل در پرتال ایران در واقعیت مجازی، می توانید بدون حضور فیزیکی و صرفا با مشاهده تور مجازی بصورت آنلاین، بازدید از یکی از جذابترین و دیدنی ترین جاذبه های گردشگری خوزستان را تجربه نمایید</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = زیگورات چغازنبیل
