@@ -52,14 +52,14 @@ quizTimeout_DFAD06E4_CE6B_F016_41B9_71CFE755C7EA.score = نمایش نمرات
 ## Media
 
 ### Audio
-audiores_DA946860_CEAB_900E_4182_F0C6B1B0D18A.mp3Url = media/audio_DECC38D4_CE69_B037_41D2_22ABBBA0001C_en.mp3
+audiores_DA946860_CEAB_900E_4182_F0C6B1B0D18A.mp3Url = https://raw.githubusercontent.com/arronite/3dTour/test/public/media/audio_DECC38D4_CE69_B037_41D2_22ABBBA0001C_en.mp3
 
 ### Floorplan
 
 ### Image
-imlevel_D6BB9654_CEBE_9036_41E0_B92DBC60864D.url = media/map_D47DFE87_C7B4_0353_41D4_1CD7C3F7DE58_en_0.png
-imlevel_D6BB6654_CEBE_9036_41D3_EC321D6ADC58.url = media/map_D47DFE87_C7B4_0353_41D4_1CD7C3F7DE58_en_1.png
-imlevel_D6BB7654_CEBE_9036_41E4_C4124AD295B7.url = media/map_D47DFE87_C7B4_0353_41D4_1CD7C3F7DE58_en_2.png
+imlevel_D6BB9654_CEBE_9036_41E0_B92DBC60864D.url = https://raw.githubusercontent.com/arronite/3dTour/test/public/media/map_D47DFE87_C7B4_0353_41D4_1CD7C3F7DE58_en_0.png
+imlevel_D6BB6654_CEBE_9036_41D3_EC321D6ADC58.url = https://raw.githubusercontent.com/arronite/3dTour/test/public/media/map_D47DFE87_C7B4_0353_41D4_1CD7C3F7DE58_en_1.png
+imlevel_D6BB7654_CEBE_9036_41E4_C4124AD295B7.url = https://raw.githubusercontent.com/arronite/3dTour/test/public/media/map_D47DFE87_C7B4_0353_41D4_1CD7C3F7DE58_en_2.png
 
 ### Title
 album_D61736B6_C6D7_2CCE_41E7_21DFCA29DAD7_0.label = DJI_0542
@@ -80,12 +80,12 @@ panorama_B8C5E686_B42E_1E4B_41AB_AC8BED835577.label = محوطه چغازنبی�
 panorama_B8C27125_B42E_1248_41C9_ED539D4B288C.label = محوطه چغازنبیل-04
 
 ### Video
-videolevel_D6A42611_CEBE_9031_41E7_6FCFE8D8529A.url = media/video_CACDF248_C590_50F2_41E0_30936ECF2782_en.mp4
-videolevel_D6A42611_CEBE_9031_41E7_6FCFE8D8529A.posterURL = media/video_CACDF248_C590_50F2_41E0_30936ECF2782_poster_en.jpg
-videolevel_D6A4858E_CEBE_9012_4199_287D9925AC1F.url = media/video_D0F4B874_C9BC_0FB4_41E5_1A1FA5F40CB5_en.mp4
-videolevel_D6A4858E_CEBE_9012_4199_287D9925AC1F.posterURL = media/video_D0F4B874_C9BC_0FB4_41E5_1A1FA5F40CB5_poster_en.jpg
-videolevel_D6A475CF_CEBE_9012_41B7_A2FFC811D0A6.url = media/video_D6D81775_C943_EE02_416C_EA8CCC205545_en.mp4
-videolevel_D6A475CF_CEBE_9012_41B7_A2FFC811D0A6.posterURL = media/video_D6D81775_C943_EE02_416C_EA8CCC205545_poster_en.jpg
+videolevel_D6A42611_CEBE_9031_41E7_6FCFE8D8529A.url = https://raw.githubusercontent.com/arronite/3dTour/test/public/media/video_CACDF248_C590_50F2_41E0_30936ECF2782_en.mp4
+videolevel_D6A42611_CEBE_9031_41E7_6FCFE8D8529A.posterURL = https://raw.githubusercontent.com/arronite/3dTour/test/public/media/video_CACDF248_C590_50F2_41E0_30936ECF2782_poster_en.jpg
+videolevel_D6A4858E_CEBE_9012_4199_287D9925AC1F.url = https://raw.githubusercontent.com/arronite/3dTour/test/public/media/video_D0F4B874_C9BC_0FB4_41E5_1A1FA5F40CB5_en.mp4
+videolevel_D6A4858E_CEBE_9012_4199_287D9925AC1F.posterURL = https://raw.githubusercontent.com/arronite/3dTour/test/public/media/video_D0F4B874_C9BC_0FB4_41E5_1A1FA5F40CB5_poster_en.jpg
+videolevel_D6A475CF_CEBE_9012_41B7_A2FFC811D0A6.url = https://raw.githubusercontent.com/arronite/3dTour/test/public/media/video_D6D81775_C943_EE02_416C_EA8CCC205545_en.mp4
+videolevel_D6A475CF_CEBE_9012_41B7_A2FFC811D0A6.posterURL = https://raw.githubusercontent.com/arronite/3dTour/test/public/media/video_D6D81775_C943_EE02_416C_EA8CCC205545_poster_en.jpg
 
 ### Video Subtitles
 
@@ -171,13 +171,13 @@ DropDown_057BFA20_3AA3_A1EE_41A9_8EE569D894A7.label = SPORTS AREA
 DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09.label = SWIMMING POOL
 
 ### Image
-Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50.url = skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_en.png
-Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile.url = skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile_en.png
-Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_en.jpg
-Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29.url = skin/Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29_en.png
-Image_718C71CD_60B6_E5E3_41B9_105D7970318F.url = skin/Image_718C71CD_60B6_E5E3_41B9_105D7970318F_en.jpg
-Image_731CA57E_60BF_A2A1_4190_01076897586C.url = skin/Image_731CA57E_60BF_A2A1_4190_01076897586C_en.jpg
-Image_731CE57E_60BF_A2A1_41CC_3F43DCC7BC6F.url = skin/Image_731CE57E_60BF_A2A1_41CC_3F43DCC7BC6F_en.jpg
+Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50.url = https://raw.githubusercontent.com/arronite/3dTour/test/public/skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_en.png
+Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile.url = https://raw.githubusercontent.com/arronite/3dTour/test/public/skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile_en.png
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = https://raw.githubusercontent.com/arronite/3dTour/test/public/skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_en.jpg
+Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29.url = https://raw.githubusercontent.com/arronite/3dTour/test/public/skin/Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29_en.png
+Image_718C71CD_60B6_E5E3_41B9_105D7970318F.url = https://raw.githubusercontent.com/arronite/3dTour/test/public/skin/Image_718C71CD_60B6_E5E3_41B9_105D7970318F_en.jpg
+Image_731CA57E_60BF_A2A1_4190_01076897586C.url = https://raw.githubusercontent.com/arronite/3dTour/test/public/skin/Image_731CA57E_60BF_A2A1_4190_01076897586C_en.jpg
+Image_731CE57E_60BF_A2A1_41CC_3F43DCC7BC6F.url = https://raw.githubusercontent.com/arronite/3dTour/test/public/skin/Image_731CE57E_60BF_A2A1_41CC_3F43DCC7BC6F_en.jpg
 
 ### Label
 Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1_mobile.text = COMPANY NAME
